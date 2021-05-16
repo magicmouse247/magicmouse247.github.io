@@ -2,7 +2,7 @@
 
 
 body {
-  font-family: 'Source Sans Pro' sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 1.15rem;
 }
 
@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: salmon;
+  color: rgb(94, 18, 218);
 }
 
 img {
@@ -50,7 +50,7 @@ h1 {
 }
 
 h2 {
-  color: rgba(250, 128, 114, 0.9);
+  color: rgba(62, 182, 26, 0.9);
   font-size: 1.5rem;
   font-weight: 500;
   margin: 2rem 0 .35rem 0;
